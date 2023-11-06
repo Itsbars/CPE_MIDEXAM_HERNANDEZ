@@ -1,0 +1,26 @@
+#invetory for config.
+
+#ubuntu
+
+[ls_ubuntu]
+192.168.56.102
+
+[igp_ubuntu]
+192.168.56.102
+
+[elk_ubuntu]
+192.168.56.102
+
+#centos
+
+[ls_centos]
+ahernandez@192.168.56.115
+
+[igp_centos]
+ahernandez@192.168.56.115
+
+[elk_centos]
+ahernandez@192.168.56.115
+
+[nagios_centos]
+ahernandez@192.168.56.115
